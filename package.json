@@ -1,5 +1,5 @@
 {
-  "name": "clipboard-plus",
+  "name": "clipboard-ide",
   "main": "./lib/main",
   "version": "0.5.1",
   "description": "Keeps your clipboard history.",
