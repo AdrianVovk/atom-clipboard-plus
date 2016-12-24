@@ -8,7 +8,7 @@
     "kill-ring",
     "emacs"
   ],
-  "repository": "https://github.com/aki77/atom-clipboard-plus",
+  "repository": "https://github.com/AdrianVovk/clipboard-ide",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
